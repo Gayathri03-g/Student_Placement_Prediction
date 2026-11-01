@@ -144,13 +144,6 @@ Through this project, I gained practical understanding of:
 - Apply cross-validation and hyperparameter tuning.
 - Develop a simple web application for interactive predictions.
 
-## 👩‍💻 Author
-
-**Gayathri Vadla**
-
-B.Tech – Computer Science and Engineering (AI & ML)
-
-Interested in Python, Machine Learning, Artificial Intelligence, and Data Science.
 
 ## ⭐ Acknowledgement
 
